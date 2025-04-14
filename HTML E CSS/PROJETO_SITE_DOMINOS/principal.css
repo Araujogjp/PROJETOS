@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    text-align: center;
+    background-image: linear-gradient(to right, #5863F8, #5FBFF9 );
+    padding: 15px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.297);
+    position: fixed;
+    width: 100%;
+}
+
+header img{
+    width: 45px;
+    height: 45px;
+}
+
+header a{
+    text-decoration: none;
+}
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+nav a{
+    color: white;
+    padding: 5px;
+}
+
+
+#loc{
+    border: solid;
+}
+
+
+
+
+
+
